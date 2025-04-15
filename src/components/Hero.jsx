@@ -1,6 +1,6 @@
 import React from 'react'
 
-              {/*passing in title & subtitle prop for dynamic */}
+{/*passing in title & subtitle prop for dynamic */}
 const Hero = ({
     title = 'Become a React Dev', 
     subtitle = 'Find the react job That Fits your skill set'}) => {
